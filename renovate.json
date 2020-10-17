@@ -1,5 +1,4 @@
 {
-  "fileMatch": "\\.tf$",
   "regexManagers": [{
     "matchStrings": ["^(?<depName>foo)(?<currentValue>bar)$"],
     "datasourceTemplate": "maven",
