@@ -1,3 +1,5 @@
 {
-  "fileMatch": "\\.tf$"
+  "terraform": {
+    "fileMatch": "\\.tf$"
+  }
 }
